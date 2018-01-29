@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-01-29T04:55:28.037901523-08:00
+    created: 2018-01-29T05:06:03.738386682-08:00
     description: A Helm chart for Kubernetes
     digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
@@ -11,7 +11,7 @@ entries:
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-01-29T04:55:28.038296264-08:00
+    created: 2018-01-29T05:06:03.739144069-08:00
     description: A Helm chart for Kubernetes
     digest: 1d8b5e77f9f464b8624a9a581ca9481cf4500d7f475522798380ba9a0864a864
     name: notificationchart
@@ -20,7 +20,7 @@ entries:
     version: 0.1.0
   notificationcharts:
   - apiVersion: v1
-    created: 2018-01-29T04:55:28.038941871-08:00
+    created: 2018-01-29T05:06:03.739382777-08:00
     description: A Helm chart for Kubernetes
     digest: 8490a6bf8616d8f2f7cd462e94ddd1a0027fe9b3b0eb4fdb5544a03b050389d2
     name: notificationcharts
@@ -29,7 +29,7 @@ entries:
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-01-29T04:55:28.039411617-08:00
+    created: 2018-01-29T05:06:03.739773069-08:00
     description: A Helm chart for Kubernetes
     digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
     name: portfoliochart
@@ -38,7 +38,7 @@ entries:
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-01-29T04:55:28.039637849-08:00
+    created: 2018-01-29T05:06:03.740029457-08:00
     description: A Helm chart for Kubernetes
     digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
@@ -47,11 +47,11 @@ entries:
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-01-29T04:55:28.040194533-08:00
+    created: 2018-01-29T05:06:03.740471601-08:00
     description: A Helm chart for Kubernetes
-    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    digest: a95e3b6c02268393d3790ecdad9e3fbd4e9583ec74c97b273b2d0c9f7ba89063
     name: traderchart
     urls:
     - https://wtistangdev.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-01-29T04:55:28.037176235-08:00
+generated: 2018-01-29T05:06:03.737311181-08:00
